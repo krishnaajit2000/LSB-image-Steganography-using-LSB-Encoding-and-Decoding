@@ -1,4 +1,4 @@
-# LSB-image-Steganography-using-LSB-Encoding-and-Decoding
+#krishnaajit2000.LSB-image-Steganography-using-LSB-Encoding-and-Decoding
 A highly confidential piece of data, image, or file can be hidden inside another image using a technique called steganography.
 In fields where work requires a high degree of confidence, steganography is primarily utilised.
 There are various methods to do steganography,from which I selected digital steganographic method.
